@@ -1,0 +1,10 @@
+x=float(input("enter the number:"))
+
+print("your number in meters", x*1000, "m")
+print("your number in kilometers", x/1000, "km")
+print("your number in centimeters", x*2.54, "cm")
+print("your number in inches", x/2.54, "in")
+print("your number in meters", x*0.3048, "m")
+print("your number in feet", x/0.3048, "ft")
+print("your number in kilometers", x*1.60934, "km")
+print("your number in miles", x/1.60934, "mi")
